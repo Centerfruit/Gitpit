@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway";
+}
+
+.banner {
+  width: 100%;
+  height: 55px;
+  background-color: #161B22;
+  background-position: center center;
+  background-size: cover;
+}
+
+
+.container-2 {
+  width: 100%;
+  aspect-ratio: 1;
+  background-color: #0D1017;
+  background-position: center center;
+  background-size: cover;
+}
+
+.ftr {
+  background-color: red;
+}
